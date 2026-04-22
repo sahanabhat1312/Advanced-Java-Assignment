@@ -19,7 +19,7 @@ public class Mysql_Query {
         String url = "jdbc:mysql://localhost/test";
         Properties info = new Properties();
         info.put("user", "root");
-        info.put("password", "Sam@@2005");
+        info.put("password", "userpassword");
 
         dbConnection = DriverManager.getConnection(url, info);
 
