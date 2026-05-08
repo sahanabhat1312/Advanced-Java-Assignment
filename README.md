@@ -40,6 +40,14 @@ https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab9c/index2.png
 
 https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab9c/index3.png?raw=true
 
+10a ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab10a/10aa.png?raw=true
+
+https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab10a/10ab.png?raw=true
+
+10b ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab10b/10ba.png?raw=true
+
+https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab10b/10bb.png?raw=true
+
 11a ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab11a/11a.png?raw=true
 
 11b ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab11b/11b.png?raw=true
@@ -65,3 +73,11 @@ https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12c/12cb.png?
 12d ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12d/12da.png?raw=true
 
 https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12d/12db.png?raw=true
+
+
+
+
+
+
+
+
