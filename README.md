@@ -43,3 +43,6 @@ imagebuttonexample -> https://github.com/sahanabhat1312/Advanced-Java-Assignment
 
 swingexample -> https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/main/program4/swingexample.png?raw=true
 
+Program5 o/p:
+colortabbedpane ->
+
