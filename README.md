@@ -54,11 +54,14 @@ https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab11c/index3.pn
 
 https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab11d/index2.png?raw=true
 
+12a ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12a/12a.png?raw=true
 
+12b ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12b/12b.png?raw=true
 
+12c ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12c/12ca.png?raw=true
 
+https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12c/12cb.png?raw=true
 
+12d ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12d/12da.png?raw=true
 
-
-
-
+https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/lab12d/12db.png?raw=true
