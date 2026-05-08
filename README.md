@@ -49,3 +49,5 @@ colortabbedpane ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blo
 countrycapitallist ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/main/program5/countrycaptlist(a).png?raw=true
 
 https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/main/program5/countrycaptlist(b).png?raw=true
+
+tabbedpaneexample ->https://github.com/sahanabhat1312/Advanced-Java-Assignment/blob/main/program5/TabbedpaneExample.png?raw=true
