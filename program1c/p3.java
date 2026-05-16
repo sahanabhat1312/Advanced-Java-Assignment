@@ -1,3 +1,5 @@
+//1c.
+//3.Write a Java program to insert the specified element at the end of a linked list.( using l_listobj.offerLast("Pink"))
 package program1c;
 import java.util.*;
 public class p3{
