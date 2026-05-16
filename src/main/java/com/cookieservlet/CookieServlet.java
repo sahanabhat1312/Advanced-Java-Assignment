@@ -1,4 +1,5 @@
-/*8a.example Build a servlet program to  create a cookie to get your name through text box and press submit button to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also. 
+/*8a.example Build a servlet program to  create a cookie to get your name through text box and press submit button to display the message by greeting Welcome back your name ! ,
+ you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also. 
 */
 
 package com.cookieservlet;
